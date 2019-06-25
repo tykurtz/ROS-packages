@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(LMB_disparity_view)
+project(lmb_disparity_view)
 
 find_package(catkin REQUIRED COMPONENTS
   cv_bridge

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>LMB_dispnet</name>
+  <name>lmb_dispnet</name>
   <version>1.0.0</version>
   <description>LMB's DispNet stereo disparity estimation CNN</description>
 

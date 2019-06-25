@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(LMB_dispnet)
+project(lmb_dispnet)
 
 add_compile_options(-std=c++11)
 

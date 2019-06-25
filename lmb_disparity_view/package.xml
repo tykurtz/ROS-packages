@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>LMB_disparity_view</name>
+  <name>lmb_disparity_view</name>
   <version>1.0.0</version>
   <description>Convert DispNet's disparity outputs into displayable images</description>
 
